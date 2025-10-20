@@ -5,6 +5,7 @@
 ```bash
 ###  Características Principales
 
+**Tutorial Interactivo: Aprenderás a usar la aplicación en solo 3 pasos.
 **Arrastrar y Soltar Intuitivo: Mueve tareas sin esfuerzo entre las columnas.
 **Base de Datos en Tiempo Real: Gracias a Firebase Firestore, tu tablero se mantiene actualizado instantáneamente.
 **Autenticación Segura: Sistema de registro e inicio de sesión de usuarios con Firebase Authentication.
